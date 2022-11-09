@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/ws2812.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/dvi_encoder.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_config.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/lut_hdmi.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_top.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_byte_ctrl.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_bit_ctrl.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/encode.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/serdes_4b_10tol.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/rgb_hsv.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/threshold_binary.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/HVcount.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_up.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_down.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_left.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_right.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_86.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_defines.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.idf</data>
+            <data>IP</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="3">
+        <column_headers>
+            <data>Cpu Time (s)</data>
+            <data>Real Time (s)</data>
+            <data>Peak Memory (B)</data>
+        </column_headers>
+        <row>
+            <data>5.90625</data>
+            <data>6</data>
+            <data>145,862,656</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/ws2812.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/ws2812.v(line number: 1)] Analyzing module ws2812 (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/dvi_encoder.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/dvi_encoder.v(line number: 2)] Analyzing module dvi_encoder (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_config.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_config.v(line number: 30)] Analyzing module i2c_config (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/lut_hdmi.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/lut_hdmi.v(line number: 1)] Analyzing module lut_hdmi (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_top.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_top.v(line number: 30)] Analyzing module i2c_master_top (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_byte_ctrl.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_byte_ctrl.v(line number: 75)] Analyzing module i2c_master_byte_ctrl (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_bit_ctrl.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Public-4030: File 'D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_defines.v' has been added. It is skipped.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_bit_ctrl.v(line number: 143)] Analyzing module i2c_master_bit_ctrl (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/encode.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/encode.v(line number: 46)] Analyzing module encode (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/serdes_4b_10tol.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/serdes_4b_10tol.v(line number: 3)] Analyzing module serdes_4b_10to1 (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v(line number: 1)] Analyzing module Invert (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/rgb_hsv.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/rgb_hsv.v(line number: 1)] Analyzing module rgb_hsv (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/threshold_binary.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/threshold_binary.v(line number: 2)] Analyzing module threshold_binary (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/HVcount.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/HVcount.v(line number: 3)] Analyzing module HVcount (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_up.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_up.v(line number: 1)] Analyzing module Edge_rgb_dvider_up (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_down.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_down.v(line number: 1)] Analyzing module Edge_rgb_dvider_down (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_left.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_left.v(line number: 2)] Analyzing module Edge_rgb_dvider_left (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_right.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_right.v(line number: 1)] Analyzing module Edge_rgb_dvider_right (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_86.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_86.v(line number: 1)] Analyzing module Light_Driver_86 (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 1)] Analyzing module Light_Driver_50 (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Public-4030: File 'D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_defines.v' has been added. It is skipped.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_defines.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0001: Analyzing file D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0002: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 20)] Analyzing module clk_generate (library work)</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Module &quot;ws2812&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/ws2812.v(line number: 1)] Elaborating module ws2812</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/arch/vendor/pango/library/operator/gtp_lib.v(line number: 395)] Elaborating module GTP_CLKBUFG</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 20)] Elaborating module clk_generate</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/arch/vendor/pango/library/operator/gtp_lib.v(line number: 19818)] Elaborating module GTP_PLL_E1</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 120)] Net clkfb in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 123)] Net pfden in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 124)] Net clkout0_gate in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 125)] Net clkout0_2pad_gate in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 126)] Net clkout1_gate in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 127)] Net clkout2_gate in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 128)] Net clkout3_gate in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 129)] Net clkout4_gate in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 130)] Net clkout5_gate in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 131)] Net dyn_idiv in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 132)] Net dyn_odiv0 in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 133)] Net dyn_odiv1 in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 134)] Net dyn_odiv2 in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 135)] Net dyn_odiv3 in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 136)] Net dyn_odiv4 in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 137)] Net dyn_fdiv in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 138)] Net dyn_duty0 in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 139)] Net dyn_duty1 in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 140)] Net dyn_duty2 in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 141)] Net dyn_duty3 in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 142)] Net dyn_duty4 in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[0] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[1] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[2] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[3] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[4] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[5] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[6] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[7] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[8] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[9] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[10] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[11] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 143)] Net dyn_phase0[12] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[0] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[1] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[2] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[3] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[4] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[5] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[6] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[7] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[8] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[9] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[10] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[11] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 144)] Net dyn_phase1[12] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[0] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[1] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[2] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[3] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[4] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[5] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[6] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[7] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[8] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[9] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[10] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[11] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 145)] Net dyn_phase2[12] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[0] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[1] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[2] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[3] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[4] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[5] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[6] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[7] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[8] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[9] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[10] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[11] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 146)] Net dyn_phase3[12] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[0] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[1] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[2] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[3] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[4] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[5] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[6] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[7] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[8] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[9] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[10] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[11] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2020: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 147)] Net dyn_phase4[12] in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 151)] Net icp_base in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 152)] Net icp_sel in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 153)] Net lpfres_sel in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 154)] Net cripple_sel in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 155)] Net phase_sel in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 156)] Net phase_dir in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 157)] Net phase_step_n in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 158)] Net load_phase in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/ipcore/clk_generate/clk_generate.v(line number: 159)] Net dyn_mdiv in module clk_generate does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v(line number: 1)] Elaborating module Invert</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/rgb_hsv.v(line number: 1)] Elaborating module rgb_hsv</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/threshold_binary.v(line number: 2)] Elaborating module threshold_binary</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2019: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v(line number: 59)] Width mismatch between port black_data and signal bound to it for instantiated module threshold_binary</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/HVcount.v(line number: 3)] Elaborating module HVcount</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_up.v(line number: 1)] Elaborating module Edge_rgb_dvider_up</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_down.v(line number: 1)] Elaborating module Edge_rgb_dvider_down</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_left.v(line number: 2)] Elaborating module Edge_rgb_dvider_left</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Edge_rgb_dvider_right.v(line number: 1)] Elaborating module Edge_rgb_dvider_right</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_86.v(line number: 1)] Elaborating module Light_Driver_86</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">[D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_86.v(line number: 189)] The index 86 is out of declared range.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_86.v(line number: 1)] Elaborating module Light_Driver_86</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 1)] Elaborating module Light_Driver_50</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 1)] Elaborating module Light_Driver_50</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2036: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v(line number: 75)] Net o_ycbcr connected to input port of module instance has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v(line number: 25)] Net o_rgb in module Invert does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v(line number: 27)] Net o_ycbcr_y in module Invert does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v(line number: 28)] Net o_hsync in module Invert does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v(line number: 29)] Net o_vsync in module Invert does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v(line number: 30)] Net o_de in module Invert does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Invert.v(line number: 84)] Net pos_image_data in module Invert does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/dvi_encoder.v(line number: 2)] Elaborating module dvi_encoder</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/encode.v(line number: 46)] Elaborating module encode</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/encode.v(line number: 46)] Elaborating module encode</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/encode.v(line number: 46)] Elaborating module encode</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/serdes_4b_10tol.v(line number: 3)] Elaborating module serdes_4b_10to1</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/arch/vendor/pango/library/operator/gtp_lib.v(line number: 18517)] Elaborating module GTP_OSERDES</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/arch/vendor/pango/library/operator/gtp_lib.v(line number: 18630)] Elaborating module GTP_OUTBUFT</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_config.v(line number: 30)] Elaborating module i2c_config</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_top.v(line number: 30)] Elaborating module i2c_master_top</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_byte_ctrl.v(line number: 75)] Elaborating module i2c_master_byte_ctrl</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2008: The attribute named enum_state is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_master_bit_ctrl.v(line number: 143)] Elaborating module i2c_master_bit_ctrl</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2008: The attribute named enum_state is not legal, then it has no effect, ignore its value.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Directive full_case is effective</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Directive full_case is effective</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2036: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/i2c_config.v(line number: 130)] Net i2c_read_req connected to input port of module instance has no driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Verilog-0003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/lut_hdmi.v(line number: 1)] Elaborating module lut_hdmi</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Verilog-2021: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/ws2812.v(line number: 79)] Net o_ycbcr in module ws2812 does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_86.v(line number: 103)] The net 'LED_M[0]' in ws2812.Invert_m0.LED_up is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2004: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_86.v(line number: 207)] Latch is generated for signal led_count_n, possible missing assignment in an if or case statement.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[0]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[51]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[52]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[53]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[54]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[55]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[56]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[57]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[58]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[59]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[60]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[61]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[62]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[63]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[64]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[65]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[66]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[67]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[68]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[69]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[70]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[71]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[72]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[73]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[74]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[75]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[76]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[77]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[78]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[79]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[80]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[81]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[82]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[83]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[84]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2003: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 67)] The net 'LED_M[85]' in ws2812.Invert_m0.LED_left is un-driven.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="5" bold="0">Sdm-2004: [D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/source/Light_Driver_50.v(line number: 135)] Latch is generated for signal led_count_n, possible missing assignment in an if or case statement.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">FSM state[15:0]_fsm[15:0] inferred.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">FSM state[15:0]_fsm[15:0] inferred.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">FSM state[2:0]_fsm[2:0] inferred.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">FSM c_state[4:0]_fsm[4:0] inferred.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">FSM c_state[17:0]_fsm[17:0] inferred.</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N99 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N27[0] (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N27[1] (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N27[2] (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N27[3] (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N27[4] (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N27[5] (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N27[6] (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N27[7] (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data color="4278190080" align="0" message="4" bold="0">Constant propagation done on N27[8] (bmsWIDEMUX).</data>
+        </row>
+    </table>
+    <general_container id="compile_settings" align="1">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PGL22G-6MBG324</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>ws2812</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>System Verilog</data>
+                        <data>OFF</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

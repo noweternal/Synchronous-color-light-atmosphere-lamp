@@ -1,0 +1,46 @@
+##### Written on 2022/11/09 16:20:41 ###############################
+
+
+##### DESIGN INFO ##################################################
+
+Top Module:
+	ws2812
+
+Constraint File(s):
+	D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/Color_Light.fdc
+	
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 0 critical warning(s), 0 warning(s), out of 210 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+
+
+
+
+Constraints with issues:
+********************************************
+
+
+
+
+
+
+
+
+
+
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+
+
+
+

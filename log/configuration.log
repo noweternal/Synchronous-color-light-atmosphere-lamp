@@ -1,0 +1,427 @@
+[INFO][2022-11-09 16:35:40] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgworkspace.cpp:165] : /***************************Start Configuration***************************/
+[INFO][2022-11-09 16:35:40] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgworkspace.cpp:166] : Path: D:/PDS2020_install/PDS_2020.3-Lite/bin
+[INFO][2022-11-09 16:35:40] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgworkspace.cpp:167] : Version: 71107
+[INFO][2022-11-09 16:35:41] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgworkspace.cpp:355] : Current Path: D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt
+[INFO][2022-11-09 16:35:41] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgworkspace.cpp:356] : PDS Dir Path: D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt
+[DEBUG][2022-11-09 16:35:46] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:967] : begin to add pango device by bitstream file.
+[INFO][2022-11-09 16:35:47] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:703] : set OpenLastPath: D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/generate_bitstream/ws2812.sbit
+[DEBUG][2022-11-09 16:35:47] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgutil.cpp:173] : begin to get device info from CFG file...
+[DEBUG][2022-11-09 16:35:47] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgutil.cpp:194] : end to get device info from CFG file...
+[INFO][2022-11-09 16:35:47] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgdatamanager.cpp:331] : Loading file done : D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/generate_bitstream/ws2812.sbit
+[INFO][2022-11-09 16:35:47] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgdatamanager.cpp:332] : Added device successfully : Logos-PGL22G
+[DEBUG][2022-11-09 16:35:47] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:3376] : Begin to update graphic item and tree item ...
+[DEBUG][2022-11-09 16:35:47] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:3398] : End to update graphic item and tree item ...
+[DEBUG][2022-11-09 16:35:47] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:1003] : end to add pango device by bitstream file.
+[INFO][2022-11-09 16:36:10] [2792] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmain.cpp:79] : /***************************End Configration***************************/
+[INFO][2022-11-09 16:36:13] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgworkspace.cpp:165] : /***************************Start Configuration***************************/
+[INFO][2022-11-09 16:36:13] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgworkspace.cpp:166] : Path: D:/PDS2020_install/PDS_2020.3-Lite/bin
+[INFO][2022-11-09 16:36:13] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgworkspace.cpp:167] : Version: 71107
+[INFO][2022-11-09 16:36:14] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgworkspace.cpp:355] : Current Path: D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt
+[INFO][2022-11-09 16:36:14] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgworkspace.cpp:356] : PDS Dir Path: D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt
+[INFO][2022-11-09 16:36:16] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:839] : Configuration is not connect with server. connect first then scan chain.
+[DEBUG][2022-11-09 16:36:16] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:463] : Client Local host name:LAPTOP-ILGRUGDG
+[DEBUG][2022-11-09 16:36:16] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:471] : Client Local Address:192.168.0.56
+[DEBUG][2022-11-09 16:36:16] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:471] : Client Local Address:192.168.137.1
+[DEBUG][2022-11-09 16:36:16] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:471] : Client Local Address:192.168.72.1
+[DEBUG][2022-11-09 16:36:16] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:498] : Server Address:127.0.0.1, Port:65420
+[INFO][2022-11-09 16:36:17] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:538] : Connect OK, Server: 127.0.0.1  Port: 65420
+[DEBUG][2022-11-09 16:36:17] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:317] : Finish.
+[INFO][2022-11-09 16:36:17] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:318] : Connect server succeeded
+[DEBUG][2022-11-09 16:36:17] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:653] : Send RPC:1
+[DEBUG][2022-11-09 16:36:17] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:772] : Send cmd [check version information:40004] OK
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[1] cmd [check version information:40004]
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: check version information start
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:653] : Send RPC:2
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:772] : Send cmd [get_cable_paras:40010] OK
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:858] : Begin to send initialize chain cmd...
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:653] : Send RPC:3
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:772] : Send cmd [Open config cable:20001] OK
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:877] : End to send initialize chain cmd.
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: check version information end
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:437] : COMMAND[check version information] execute successfully, takes 0.3 secs.
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[2] cmd [get_cable_paras:40010]
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: get_cable_paras start
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: get_cable_paras end
+[DEBUG][2022-11-09 16:36:18] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:437] : COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[DEBUG][2022-11-09 16:36:19] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[3] cmd [Open config cable:20001]
+[DEBUG][2022-11-09 16:36:19] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: Open config cable start
+[DEBUG][2022-11-09 16:36:19] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:228] : begin the exec of open cable cmd...
+[DEBUG][2022-11-09 16:36:19] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgdatamanager.cpp:470] : Begin to deal with chain from server...
+[DEBUG][2022-11-09 16:36:19] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgdatamanager.cpp:478] : Begin to set user chain...
+[DEBUG][2022-11-09 16:36:19] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgdatamanager.cpp:495] : End to set user chain.
+[DEBUG][2022-11-09 16:36:19] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:3376] : Begin to update graphic item and tree item ...
+[DEBUG][2022-11-09 16:36:19] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:3398] : End to update graphic item and tree item ...
+[INFO][2022-11-09 16:36:20] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:703] : set OpenLastPath: D:/PDS2020_install/PDS_2020.3-Lite/code_success/Color_Lignt/Color_Lignt/generate_bitstream/ws2812.sbit
+[DEBUG][2022-11-09 16:36:20] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgutil.cpp:173] : begin to get device info from CFG file...
+[DEBUG][2022-11-09 16:36:20] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgutil.cpp:194] : end to get device info from CFG file...
+[DEBUG][2022-11-09 16:36:20] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:3376] : Begin to update graphic item and tree item ...
+[DEBUG][2022-11-09 16:36:20] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:3398] : End to update graphic item and tree item ...
+[DEBUG][2022-11-09 16:36:20] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:897] : End to deal wiht chain from server.
+[DEBUG][2022-11-09 16:36:20] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:230] : end the exec of open cable cmd.
+[DEBUG][2022-11-09 16:36:20] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: Open config cable end
+[DEBUG][2022-11-09 16:36:20] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:437] : COMMAND[Open config cable] execute successfully, takes 2.7 secs.
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:2605] : Begin to send programming cmd...
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:653] : Send RPC:4
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:858] : Begin to send program data.
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:879] : End to send program data.
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:772] : Send cmd [Program:20002] OK
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 6
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 10
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 15
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 20
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 25
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 30
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 35
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 40
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 45
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 50
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 55
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 60
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 65
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 70
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 75
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:22] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 80
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 85
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 90
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 95
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 100
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[4] cmd [Program:20002]
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: Program start
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: Program end
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:437] : COMMAND[Program] execute successfully, takes 0.9 secs.
+[DEBUG][2022-11-09 16:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:2621] : End to send programming cmd.
+[DEBUG][2022-11-09 16:36:53] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:475] : stop the timer for monitoring connection timeout
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:2605] : Begin to send programming cmd...
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:653] : Send RPC:5
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:858] : Begin to send program data.
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:879] : End to send program data.
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:772] : Send cmd [Program:20002] OK
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 6
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 10
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 15
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 20
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 25
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 30
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 35
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 40
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 45
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 50
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 55
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 60
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 65
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 70
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 75
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 80
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 85
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 90
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 95
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 100
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[5] cmd [Program:20002]
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: Program start
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: Program end
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:437] : COMMAND[Program] execute successfully, takes 0.9 secs.
+[DEBUG][2022-11-09 16:37:09] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:2621] : End to send programming cmd.
+[DEBUG][2022-11-09 16:37:42] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:475] : stop the timer for monitoring connection timeout
+[DEBUG][2022-11-09 16:39:01] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:2605] : Begin to send programming cmd...
+[DEBUG][2022-11-09 16:39:01] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:653] : Send RPC:6
+[DEBUG][2022-11-09 16:39:01] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:858] : Begin to send program data.
+[DEBUG][2022-11-09 16:39:01] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:879] : End to send program data.
+[DEBUG][2022-11-09 16:39:01] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:772] : Send cmd [Program:20002] OK
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 6
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 10
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 15
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 20
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 25
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 30
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 35
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 40
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 45
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 50
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 55
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 60
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 65
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 70
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 75
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 80
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 85
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 90
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 95
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 100
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[6] cmd [Program:20002]
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: Program start
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: Program end
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:437] : COMMAND[Program] execute successfully, takes 0.9 secs.
+[DEBUG][2022-11-09 16:39:02] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:2621] : End to send programming cmd.
+[DEBUG][2022-11-09 16:39:35] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:475] : stop the timer for monitoring connection timeout
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:2605] : Begin to send programming cmd...
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:653] : Send RPC:7
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:858] : Begin to send program data.
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:879] : End to send program data.
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:772] : Send cmd [Program:20002] OK
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 6
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 10
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 15
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 20
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 25
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 30
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 35
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 40
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:50] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 45
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 50
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 55
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 60
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 65
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 70
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 75
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 80
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 85
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 90
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 95
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[0] cmd [set progress bar:40001]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgcommand.cpp:835] : The value of Progress is 100
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: set progress bar start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: set progress bar end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:893] : Recv RPC[7] cmd [Program:20002]
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:901] : Revc exec: Program start
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\common\cdtcommunicate.cpp:903] : Revc exec: Program end
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:437] : COMMAND[Program] execute successfully, takes 0.9 secs.
+[DEBUG][2022-11-09 16:42:51] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmenu.cpp:2621] : End to send programming cmd.
+[DEBUG][2022-11-09 16:43:21] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgclient.cpp:475] : stop the timer for monitoring connection timeout
+[INFO][2022-11-09 18:36:23] [2640] - [d:\wf\3lite\output_files\pds_pro\fab_develop\branches\pds_2020.3_no_license\source\sw\cdt\configuration\cfgmain.cpp:79] : /***************************End Configration***************************/
